@@ -8,7 +8,7 @@ https://www.kaggle.com/competitions/icr-identify-age-related-conditions
 3) Metric: balanced-log-loss (punishes confident wrong predictions rly hard)<br>
 
 ## Notebooks: (Insights & Ideas)<br>
-#### 1. EDA:<br>
+### 1. EDA:<br>
    -> Imbalanced Dataset<br>
    -> Low correlation of most features and with target (max 0.3)<br>
    -> Positive Class consists of 3 subclasses (alpha)<br>
